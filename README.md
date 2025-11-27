@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm ARIA 👋
 
-<!--
-**mmdusa/mmdusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** focused on building clean, scalable web applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working with **React, Next.js, Node.js, Express, PostgreSQL**
+- 🌱 Learning **TypeScript, testing (Jest), and CI/CD**
+- 💼 Open to **junior / mid-level full-stack roles**
+- 🌍 Based in Italy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React, Next.js
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS / CSS Modules
+
+**Backend**
+- Node.js, Express
+- REST APIs
+- PostgreSQL / MongoDB
+- Prisma / Mongoose
+
+**Tools & DevOps**
+- Git & GitHub
+- Docker (basic)
+- GitHub Actions (CI)
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **Project 1 – Full-Stack App**  
+
+
+🔹 **Project 2 – Backend API**  
+
+
+🔹 **Project 3 – Frontend Dashboard**  
+
+
+---
+
+### 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadhosseinrajabi/)
+- 📧 momo.tkd19@gmail.com
