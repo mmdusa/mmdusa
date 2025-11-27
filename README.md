@@ -1,5 +1,5 @@
 # Hi, I'm ARIA 👋
-          (Mohammad)
+
 I'm a **Full-Stack Developer** focused on building clean, scalable web applications.
 
 - 🔭 Currently working with **React, Next.js, Node.js, Express, PostgreSQL**
