@@ -1,3 +1,11 @@
+<!-- Animated Waving Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I'm+ARIA+👋;Full-Stack+Developer;Building+Clean+%26+Scalable+Web+Apps;Based+in+Italy+🇮🇹" />
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamrajabi&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+</p>
+
 # Hi, I'm ARIA 👋
 
 I'm a **Full-Stack Developer** focused on building clean, scalable, cloud-ready web applications.
@@ -25,11 +33,16 @@ I'm a **Full-Stack Developer** focused on building clean, scalable, cloud-ready 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### **Tools & DevOps**
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A42EEA?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### **Other Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -37,28 +50,30 @@ I'm a **Full-Stack Developer** focused on building clean, scalable, cloud-ready 
 ## 🚀 Featured Projects
 
 🔹 **Project 1 – Full-Stack App**  
-*React / Next.js / Node.js / PostgreSQL*  
-👉 *Add link here*
+
 
 🔹 **Project 2 – Backend API**  
-*Express / Prisma / PostgreSQL*  
-👉 *Add link here*
+
 
 🔹 **Project 3 – Frontend Dashboard**  
-*Next.js / Tailwind / Recharts*  
-👉 *Add link here*
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamrajabi&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdusa&show_icons=true&theme=tokyonight" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdusa&layout=compact&theme=tokyonight" height="145" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamrajabi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdusa&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamrajabi&theme=tokyonight)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamrajabi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmdusa&theme=tokyo-night" />
+</p>
 
 ---
 
