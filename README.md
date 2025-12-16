@@ -1,11 +1,3 @@
-<!-- Animated Waving Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I'm+ARIA+👋;Full-Stack+Developer;Building+Clean+%26+Scalable+Web+Apps;Based+in+Italy+🇮🇹" />
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamrajabi&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-</p>
-
 # Hi, I'm ARIA 👋
 
 I'm a **Full-Stack Developer** focused on building clean, scalable, cloud-ready web applications.
